@@ -7,7 +7,7 @@
 
 **An extension that converts**
 
-**Loonix -> Loonix**
+**Linux -> Loonix**
 
 
 ## Screenshot
