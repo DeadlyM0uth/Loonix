@@ -3,18 +3,8 @@ export default defineContentScript({
     main() {
         watchAndReplace(document.body, [
             {
-                from: "microsoft",
-                to: "Microslop",
-                ignorePrefix: ["@", "#"],
-            },
-            {
-                from: "Satya Nadella",
-                to: "Slopya Nadella",
-                ignorePrefix: ["@", "#"],
-            },
-            {
-                from: "Satya Narayana Nadella",
-                to: "Slopya Narayana Nadella",
+                from: "Linux",
+                to: "Loonix",
                 ignorePrefix: ["@", "#"],
             },
         ]);
